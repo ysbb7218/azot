@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504625977250",
+    "project_id": "azot-da90e",
+    "storage_bucket": "azot-da90e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504625977250:android:27253c019db86a6f6e44fb",
+        "android_client_info": {
+          "package_name": "com.example.azot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxRcCxjzZUv_cDyrkKY43a2bUcnYjwQJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
